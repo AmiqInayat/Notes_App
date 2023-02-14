@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## Note App with FireBase
 
 This project is a starting point for a Flutter application.
 
