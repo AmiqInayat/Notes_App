@@ -17,5 +17,5 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: HomeScreen(),
     );
-  }
+  } // this is the main screen
 }
