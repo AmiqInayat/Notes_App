@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Note App with FireBase
+![Screenshot_20230215-020309](https://user-images.githubusercontent.com/125402816/218862499-408584c6-df15-4c18-b34a-87114ad56f8a.png)
 
 This project is a starting point for a Flutter application.
 
